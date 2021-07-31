@@ -1,4 +1,4 @@
 # hello-world
 
-I'm Kristina, noob, I <3 MATLAB and C++ ;
+I'm Kristina 👩, noob, I ❤️ MATLAB and C++ ;
 Started learning python, having fun ^^ 
