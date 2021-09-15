@@ -1,7 +1,7 @@
 # hello-world
 
 I'm Kristina 👩, noob.\
-With MATLAB and C++ I've been solving numerically model analysis physics problems. Most of the coding I did for the following subjects:
+With MATLAB and C++ I've been solving numerically model analysis physics problems:\
 [Modelska analiza I (Model analysis I)](https://www.fmf.uni-lj.si/en/study-physics/programmes/2jet/2020/courses/1022/)\
 [Modelska analiza II (Model analysis II)](https://www.fmf.uni-lj.si/en/study-physics/programmes/2jet/2020/courses/1023/)\
 [Računalniška dinamika tekočin (CFD)](https://www.fmf.uni-lj.si/en/study-physics/programmes/2jet/2020/courses/1647/)\
