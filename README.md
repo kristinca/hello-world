@@ -10,4 +10,4 @@ With MATLAB and C++ I've been solving numerically model analysis physics problem
 My MSc Thesis simulations (Nuclear Thermal Hydraulics) - I got final results in August, 2020 ➡️ CFD : ANSYS CFX + MATLAB.\
 1 year of experience in HPC.\
 I'm quite comfy writing in 💙 LaTeX 💙 (TeXstudio).\
-Started learning python, having fun ^^.
+Started learning python in August 2021, having fun ^^.
