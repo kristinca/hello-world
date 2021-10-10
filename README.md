@@ -18,4 +18,4 @@ A conference paper done with my mentor, presenting a part of my MSc Thesis work 
 \
 I'm quite comfy writing in 💙 LaTeX 💙 (TeXstudio).\
 \
-Started learning python in August 2021 and Scala in September 2021, having fun ^^.
+Started learning Python in August 2021, Scala in September 2021 and Django in October 2021, having fun ^^.
