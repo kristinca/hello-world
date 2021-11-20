@@ -18,7 +18,7 @@ A conference paper done with my mentor, presenting a part of my MSc Thesis work 
 \
 I'm quite comfy writing in 💙 LaTeX 💙 (TeXstudio).\
 \
-Started learning and having fun ^^ :\
+Started learning and having fun ^^ :
 * August 2021 : Python
 * September 2021: Scala
 * October 2021: Django
