@@ -22,4 +22,4 @@ Started learning and having fun ^^ :
 * August 2021 : Python
 * September 2021: Scala
 * October 2021: Django
-* November 2021: OpenCV and Tkinter
+* November 2021: OpenCV, Tkinter and MySQL
