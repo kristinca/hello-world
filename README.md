@@ -23,3 +23,4 @@ Started learning and having fun ^^ :
 * September 2021: Scala
 * October 2021: Django
 * November 2021: OpenCV, Tkinter and MySQL
+* December 2021: TensorFlow, Keras and building REST APIs with Django
