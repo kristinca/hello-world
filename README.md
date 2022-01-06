@@ -16,7 +16,7 @@ A conference paper done with my mentor, presentipart of my MSc Thesis work I did
 \
 1 year of experience in HPC.\
 \
-I'm quite comfy writing in 💙 LaTeX 💙 (TeXstudio).\
+I'm quite comfy writing in 💙 LaTeX 💙 (TeXstudio).
 
 ## Started learning and having fun ^^ :
 * August 2021 : Python
