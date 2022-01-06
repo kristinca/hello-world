@@ -1,6 +1,6 @@
 # hello-world
 
-I'm Kristina 👩, noob.\
+I'm Kristina 👩.\
 \
 Started learning and having fun ^^ :
 * August 2021 : Python
