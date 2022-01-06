@@ -2,12 +2,13 @@
 
 I'm Kristina 👩.\
 \
-Started learning and having fun ^^ :
+## Srarted learning and having fun ^^ :
 * August 2021 : Python
 * September 2021: Scala
 * October 2021: Django
 * November 2021: OpenCV, Tkinter and MySQL
 * December 2021: TensorFlow, Keras and building REST APIs with Django REST Framework\
+\
 \
 With MATLAB and C++ I've been solving numerically model analysis physics problems:\
 [Modelska analiza I (Model analysis I)](https://www.fmf.uni-lj.si/en/study-physics/programmes/2jet/2020/courses/1022/)\
