@@ -1,3 +1,13 @@
+
+## Started learning and having fun ^^ :
+* August 2021 : Python
+* September 2021: Scala
+* October 2021: Django
+* November 2021: OpenCV, Tkinter and MySQL
+* December 2021: TensorFlow, Keras and building REST APIs with Django REST Framework
+* January 2022: Flask
+
+
 # hello-world
 
 I'm Kristina 👩.\
@@ -17,11 +27,3 @@ A conference paper done with my mentor, presentipart of my MSc Thesis work I did
 1 year of experience in HPC.\
 \
 I'm quite comfy writing in 💙 LaTeX 💙 (TeXstudio).
-
-## Started learning and having fun ^^ :
-* August 2021 : Python
-* September 2021: Scala
-* October 2021: Django
-* November 2021: OpenCV, Tkinter and MySQL
-* December 2021: TensorFlow, Keras and building REST APIs with Django REST Framework
-
