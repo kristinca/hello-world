@@ -5,7 +5,7 @@
 * October 2021: Django
 * November 2021: OpenCV, Tkinter and MySQL
 * December 2021: TensorFlow, Keras and building REST APIs with Django REST Framework
-* January 2022: Flask
+* January 2022: Flask and numerically solving model analysis Physics of Fission Reactors problems w/ Python
 
 
 # hello-world
