@@ -21,7 +21,7 @@ With MATLAB and C++ I've been solving numerically model analysis physics problem
 \
 My MSc Thesis simulations (Nuclear Thermal Hydraulics) - I got final results in August, 2020 ➡️ CFD : ANSYS CFX + MATLAB.\
 \
-A conference paper done with my mentor, presentipart of my MSc Thesis work I did at the Reactor Engineering Divison R4, Jožef Stefan Institute, Slovenia:\
+A conference paper done with my mentor, presenting part of my MSc Thesis work I did at the Reactor Engineering Divison R4, Jožef Stefan Institute, Slovenia:\
 [*"Downward Scaling of Experiment on Containment Atmsphere Mixing"*](https://arhiv.djs.si/proc/nene2020/pdf/NENE2020_1805.pdf)\
 \
 1 year of experience in HPC.\
