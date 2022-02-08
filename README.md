@@ -11,7 +11,7 @@
 
 # hello-world
 
-I'm Kristina 👩, python dev.\
+I'm Kristina 👩, software developer.\
 \
 With MATLAB and C++ I've been solving numerically model analysis physics problems:\
 [Modelska analiza I (Model analysis I)](https://www.fmf.uni-lj.si/en/study-physics/programmes/2jet/2020/courses/1022/)\
