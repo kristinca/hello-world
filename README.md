@@ -7,6 +7,7 @@
 * December 2021: TensorFlow, Keras and building REST APIs with Django REST Framework
 * January 2022: Flask, SQLite and numerically solving model analysis Physics of Fission Reactors problems w/ Python
 * February 2022: HTML, CSS and JavaScript 
+* March 2022: Passed the [PCEP - Certified Entry-Level Python Programmer](https://www.credly.com/badges/a035889d-5253-4c44-aac4-f2498f840b88/public_url)
 
 
 # hello-world
