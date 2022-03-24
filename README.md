@@ -1,13 +1,13 @@
 
 ## Started learning and having fun ^^ :
-* August 2021 : Python
-* September 2021: Scala
-* October 2021: Django
-* November 2021: OpenCV, Tkinter and MySQL
-* December 2021: TensorFlow, Keras and building REST APIs with Django REST Framework
-* January 2022: Flask, SQLite and numerically solving model analysis Physics of Fission Reactors problems w/ Python
-* February 2022: HTML, CSS and JavaScript (Vanilla JavaScirpt + jQuery + AJAX)
 * March 2022: Passed the [PCEP - Certified Entry-Level Python Programmer](https://www.credly.com/badges/a035889d-5253-4c44-aac4-f2498f840b88/public_url)
+* February 2022: HTML, CSS and JavaScript (Vanilla JavaScirpt + jQuery + AJAX)
+* January 2022: Flask, SQLite and numerically solving model analysis Physics of Fission Reactors problems w/ Python
+* December 2021: TensorFlow, Keras and building REST APIs with Django REST Framework
+* November 2021: OpenCV, Tkinter and MySQL
+* October 2021: Django
+* September 2021: Scala
+* August 2021 : Python
 
 
 # hello-world
