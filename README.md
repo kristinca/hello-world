@@ -26,6 +26,6 @@ My MSc Thesis simulations (Nuclear Thermal Hydraulics) - I got final results in 
 A conference paper done with my mentor, presenting part of my MSc Thesis work I did at the Reactor Engineering Divison R4, Jožef Stefan Institute, Slovenia:\
 [*"Downward Scaling of Experiment on Containment Atmsphere Mixing"*](https://arhiv.djs.si/proc/nene2020/pdf/NENE2020_1805.pdf)\
 \
-1 year of experience in HPC.\
+1 year of experience in High Performance Computing.\
 \
 I'm quite comfy writing in 💙 LaTeX 💙 (TeXstudio).
