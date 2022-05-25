@@ -6,7 +6,7 @@
 * January 2022: Flask, SQLite and numerically solving model analysis Physics of Fission Reactors problems w/ Python
 * December 2021: TensorFlow, Keras and building REST APIs with Django REST Framework
 * November 2021: OpenCV, Tkinter and MySQL
-* October 2021: Django
+* October 2021: Django [Django Girls Philadelphia programming workshop 2021](https://djangogirls.org/en/philadelphia/)
 * September 2021: Scala
 * August 2021 : Python
 
