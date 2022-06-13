@@ -1,5 +1,6 @@
 
 ## Started learning and having fun ^^ :
+* June 2022: YAML
 * April 2022: Deploying a flask app to Linux with apache2 and mod_wsgi
 * March 2022: Passed the [PCEP - Certified Entry-Level Python Programmer](https://www.credly.com/badges/a035889d-5253-4c44-aac4-f2498f840b88/public_url)
 * February 2022: HTML, CSS and JavaScript (Vanilla JavaScirpt + jQuery + AJAX)
