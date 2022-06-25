@@ -8,7 +8,7 @@
 * December 2021: TensorFlow, Keras and building REST APIs with Django REST Framework
 * November 2021: OpenCV, Tkinter and MySQL
 * October 2021: Django [Django Girls Philadelphia programming workshop 2021](https://djangogirls.org/en/philadelphia/)
-* September 2021: Scala
+* September 2021: Scala [Effective Programming in Scala](https://coursera.org/share/c4270ab3d9ef5c5f11b82cc3c85fd571)
 * August 2021 : Python
 
 
