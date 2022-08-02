@@ -1,5 +1,6 @@
 
 ## Started learning and having fun ^^ :
+* August 2022: React
 * July 2022: Slick and PostgreSQL with Scala, the subprocess module in Python
 * June 2022: YAML
 * April 2022: Deploying a flask app to Linux with apache2 and mod_wsgi
