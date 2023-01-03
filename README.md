@@ -1,10 +1,11 @@
 
 ## Started learning and having fun ^^ :
+* December 2022: MongoDB 
 * September 2022: [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/verify/CPQBVCWURM2E?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 * August 2022: React
 * July 2022: Slick and PostgreSQL with Scala, the subprocess module in Python
 * June 2022: YAML
-* April 2022: Deploying a flask app to Linux with apache2 and mod_wsgi
+* April 2022: Deploying a flask app to Linux (Ubuntu) with apache2 and mod_wsgi
 * March 2022: Passed the [PCEP - Certified Entry-Level Python Programmer](https://www.credly.com/badges/a035889d-5253-4c44-aac4-f2498f840b88/public_url)
 * February 2022: HTML, CSS and JavaScript (Vanilla JavaScirpt + jQuery + AJAX)
 * January 2022: Flask, SQLite and numerically solving model analysis Physics of Fission Reactors problems w/ Python
