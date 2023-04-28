@@ -1,5 +1,6 @@
 
 ## Started learning and having fun ^^ :
+* April 2023: MSSQL, PHP
 * December 2022: MongoDB 
 * September 2022: [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/verify/CPQBVCWURM2E?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 * August 2022: React
@@ -18,7 +19,7 @@
 
 # hello-world
 
-I'm Kristina 👩, software developer.\
+I'm Kristina 👩, software developer and python trainer.\
 \
 With MATLAB and C++ I've been solving numerically model analysis physics problems:\
 [Modelska analiza I (Model analysis I)](https://www.fmf.uni-lj.si/en/study-physics/programmes/2jet/2020/courses/1022/)\
