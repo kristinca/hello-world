@@ -1,5 +1,6 @@
 
 ## Started learning and having fun ^^ :
+* January 2024: Lua
 * May 2023: Numba
 * April 2023: MSSQL, PHP
 * December 2022: MongoDB 
