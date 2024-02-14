@@ -1,5 +1,6 @@
 
 ## Started learning and having fun ^^ :
+* February 2024: Nmap, Raspberry Pi
 * January 2024: Lua
 * May 2023: Numba
 * April 2023: MSSQL, PHP
